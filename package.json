@@ -1,0 +1,19 @@
+{
+  "name": "modulos_js",
+  "version": "1.0.0",
+  "description": "Módulos genéricos uteis para qualquer projeto.",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rep-desenv/modulos_js.git"
+  },
+  "author": "Diego P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rep-desenv/modulos_js/issues"
+  },
+  "homepage": "https://github.com/rep-desenv/modulos_js#readme"
+}
