@@ -3,3 +3,4 @@ const sequelize = new Sequelize('crud','diegoportes','lancevak',{dialect: 'mysql
 module.exports = sequelize
 /*Adição de comentário para ver se arquivo reflete.*/
 /*Mais um comentário para esse arquivo a partir de outra máquina */
+/* mais um comentário de outro computador */
